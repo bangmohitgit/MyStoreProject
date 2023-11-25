@@ -1,2 +1,2 @@
 # MyStoreProject
-mohit bang
+mohit bang.
